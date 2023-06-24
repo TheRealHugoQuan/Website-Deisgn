@@ -1,0 +1,687 @@
+/*
+	Nong Ang David / Hugo Quan
+	03/06th/2020
+	Styles Sheet for Website
+	This is the Styles Sheet for the whole website.
+*/
+#Welcome{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	position: relative;
+	top: 220px;
+	left: 40px;
+	-webkit-animation:fadeIn 2s;
+	transition: 0.5s;
+}
+#homepage{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#general{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 20px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#locations{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 40px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#food{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 60px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#anime{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 80px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#unique{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 100px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#processwork{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 120px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#workprocess{
+	font-size: 40px;
+	color: white;
+	font-family:Trebuchet MS, sans-serif;
+	background-color: #FFB6C1;
+	border-style: solid;
+	padding: 8px;
+	position: relative;
+	left: 140px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+	text-decoration: none;
+	-webkit-animation:fadeIn 1s;
+	transition: 0.5s;
+}
+#About{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 45px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Paragraph1{
+	color:black;
+	font-size: 30px;
+	font-family: Arial;
+	background-color: #ffccf2;
+	border-style: solid;
+	padding: 15px;
+	border-radius: 9px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+}
+#Paragraph2{
+	color:black;
+	font-size: 30px;
+	font-family: Arial;
+	background-color: transparent;
+	border-style: solid;
+	padding: 15px;
+	border-radius: 9px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.6);
+}
+#Map{
+	width: 500px;
+	height: 300px;
+	position: relative;
+	left: 710px;
+	border-style: solid;
+	cursor: pointer;
+	transition: 0.3s;
+}
+#Tokyo{
+	height: 300px;
+	width: 500px;
+	position: relative;
+	left: 710px;
+	border-style: solid;
+}
+#flag{
+	height: 300px;
+	width: 500px;
+	position: relative;
+	left: 710px;
+	border-style: solid;
+}
+#Trees{
+	height: 300px;
+	width: 500px;
+	position: relative;
+	left: 710px;
+	border-style: solid;
+}
+#Tea{
+	height: 300px;
+	width: 600px;
+	position: relative;
+	left: 659px;
+	border-style: solid;
+}
+#Pokemon{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Naruto{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#DragonBalls{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#YourName{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#WebsitePicture{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Movie{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Itomori{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Gate1{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Itomori1{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Gate{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;s
+}
+#watermelon{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#lights{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Hotel{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#capsule{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#rooms{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#VendingMachine{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#vending{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#machine{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;	
+}
+#Shapes{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Melons{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#MelonShapes{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Mount{
+	width: 500px;
+	height: 300px;
+	position: relative;
+	left: 695px;
+	border-style: solid;
+}
+#MountFuji{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Hiroshima{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#HiroshimaPic{
+	width: 500px;
+	height: 300px;
+	position: relative;
+	left: 695px;
+	border-style: solid;
+}
+#Yoshino{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Yoshinopic{
+	width: 500px;
+	height: 300px;
+	position: relative;
+	left: 695px;
+	border-style: solid;
+}
+#TokyoHead{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Tokyopic{
+	width: 500px;
+	height: 300px;
+	position: relative;
+	left: 695px;
+	border-style: solid;
+}
+#allcode{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 45px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: -200px;
+}
+#layout{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 45px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Homepage1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+}
+#Process1{
+	position: relative;
+	top: -90px;
+}
+#Process2{
+	position: relative;
+	top: -250px;
+}
+#GeneralInformation1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -240px;
+}
+#Location1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -260px;
+}
+#Process3{
+	position: relative;
+	top: -250px;
+}
+#Food1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -260px;
+}
+#Process4{
+	position: relative;
+	top: -250px;
+}
+#Anime1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -260px;
+}
+#Process5{
+	position: relative;
+	top: -250px;
+}
+#Unique1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -260px;
+}
+#Process6{
+	position: relative;
+	top: -250px;
+}
+#Credit1{
+	font-size: 35px;
+	font-family: Trebuchet MS, sans-serif;
+	position: relative;
+	top: -260px;
+}
+#Process7{
+	position: relative;
+	top: -250px;
+}
+#ParSushi{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#SushiPic{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#SushiPic2{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#ParUdon{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#UdonPic1{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#UdonPic2{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Ramen1{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Ramen2{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Ramen3{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Tempura1{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Tempura2{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 400px;
+}
+#Tempura3{
+	width: 500px;
+	height: 300px;
+	border-style: solid;
+	position: relative;
+	left: 500px;
+}
+#Drawing{
+	position: relative;
+	top: -200px;
+}
+#Vid{
+	position: relative;
+	left: 270px;
+}
+#Par{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: #ffccf2;
+	font-size: 30px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 500px;
+}
+#Code{
+	font-size: 45px;
+	position: relative;
+	top: -160px;
+	color: white;
+}
+#Code2{
+	position: relative;
+	top: -200px;
+}
+@keyframes fadeIn{
+	from{opacity: 0;}
+	to{opacity: 1;}
+}
+
+#allcode1{
+	text-align: center;
+	color: black;
+	border-style: solid;
+	background-color: white;
+	font-size: 45px;
+	padding: 6px;
+	border-radius: 30px;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	top: -200px;
+}
